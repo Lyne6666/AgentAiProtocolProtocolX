@@ -1,2 +1,1 @@
-# AgentAiProtocolProtocolX
-Advanced AgentAiProtocolProtocolX project
+.
